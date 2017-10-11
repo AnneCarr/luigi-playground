@@ -1,3 +1,7 @@
+# Prerequisites
+
+Install Luigi with `pip install luigi`
+
 # How To Run
 
 Run the luigi schedule on the commandline
